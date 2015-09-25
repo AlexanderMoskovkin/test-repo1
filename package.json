@@ -1,0 +1,10 @@
+{
+  "name": "test-repo",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "gulp test"
+  }
+}
