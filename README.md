@@ -1,3 +1,3 @@
 # test-repo
 
-fix-2.7
+fix-3.0
