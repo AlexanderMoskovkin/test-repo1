@@ -1,5 +1,5 @@
 var gulp    = require('gulp');
-var promise = require('promise');
+var Promise = require('promise');
 
 gulp.task('test', function () {
     console.log('Testing started...');
