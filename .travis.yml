@@ -6,6 +6,3 @@ matrix:
    - node_js: "iojs"
    - node_js: "0.10"
  fast_finish: true
-
-notifications:
- email: false
